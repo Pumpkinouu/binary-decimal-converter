@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "danzivanovi-114-TF-convertisseur-decimal-binaire/1.0.0": {
+        "runtime": {
+          "danzivanovi-114-TF-convertisseur-decimal-binaire.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "danzivanovi-114-TF-convertisseur-decimal-binaire/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
